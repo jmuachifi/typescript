@@ -1,0 +1,2 @@
+npx create-react-app my-app --template typescript
+npm run build  # to create a production build
